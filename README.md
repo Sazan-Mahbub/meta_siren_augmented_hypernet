@@ -1,5 +1,5 @@
 # Meta-SIREN Augmented Hyper-Network
-This is the official implementation of our proposed method _Meta SIREN Augmented Hyper-Network_ ([first draft]()), an attempt to speed up hyper-network training.
+This is the official implementation of our proposed method _Meta SIREN Augmented Hyper-Network_ ([technical-report](https://drive.google.com/file/d/1kDDV--edPEbdqjHv2-o8wECIA1h-DvdD/view?usp=share_link)), an attempt to speed up hyper-network training.
 
 Please note that, this project extensively uses code from the following two repositories. If you use any code from our repository, please cite the papers mentioned below.
 1. https://github.com/vsitzmann/metasdf (Paper: MetaSDF: Meta-learning Signed Distance Functions. Vincent Sitzmann*, Eric Ryan Chan*, Richard Tucker, Noah Snavely
